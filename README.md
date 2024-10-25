@@ -4,6 +4,9 @@
 > [aquadoggo.p2panda.org](https://aquadoggo.p2panda.org) for everyone who's
 > interested in the [aquadoggo](https://github.com/p2panda/aquadoggo)
 > specification, APIs and tools.
+>
+> Visit [p2panda.org](https://p2panda.org) if you're interested in the latest
+> website, or the regarding [repository](https://github.com/p2panda/website).
 
 The [aquadoggo website](https://aquadoggo.p2panda.org) is built using
 [Docusaurus 2](https://docusaurus.io/).
